@@ -1,0 +1,1 @@
+A OS Hardening playbook for linux based on https://github.com/dev-sec/ansible-os-hardening
